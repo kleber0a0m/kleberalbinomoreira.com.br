@@ -1,0 +1,22 @@
+a:hover {
+  color: #03fa6e;
+}
+
+.btn-xl {
+}
+
+.btn {
+}
+
+.carousel .carousel-indicators li {
+  background-color: gray;
+}
+
+.carousel-control-next-icon {
+  background-image: url(../../assets/img/right-arrow.png);
+}
+
+.carousel-control-prev-icon {
+  background-image: url(../../assets/img/left-arrow.png);
+}
+

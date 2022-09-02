@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Arquivo de verificação de propriedade do domínio para Microsoft 365 local na raiz do site",
+  "Domain": "kleberalbinomoreira.com.br",
+  "Id": "591138d6-006d-4ca6-946f-7cce4d930d41"
+}
